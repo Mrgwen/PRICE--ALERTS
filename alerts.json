@@ -1,0 +1,28 @@
+[
+  {
+    "id": "btc-100k",
+    "market": "crypto",
+    "coin_id": "bitcoin",
+    "label": "BTC",
+    "condition": "above",
+    "target": 100000,
+    "triggered": false
+  },
+  {
+    "id": "usd-eur-090",
+    "market": "forex",
+    "from": "USD",
+    "to": "EUR",
+    "condition": "below",
+    "target": 0.90,
+    "triggered": false
+  },
+  {
+    "id": "aapl-250",
+    "market": "stock",
+    "symbol": "AAPL",
+    "condition": "above",
+    "target": 250,
+    "triggered": false
+  }
+]
