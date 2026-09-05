@@ -5,7 +5,7 @@
     "coin_id": "bitcoin",
     "label": "BTC",
     "condition": "above",
-    "target": 100000,
+    "target": 70000,
     "triggered": false
   },
   {
